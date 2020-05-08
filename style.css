@@ -1,0 +1,29 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.box{
+text-align: center;
+}
+
+.btn{
+    width: 110px;
+    height: 110px;
+    border-radius: 50%;
+    background-color: rgb(81, 81, 247);
+    color: white;
+    cursor: pointer;
+    box-shadow: 10px 5px 10px gray;
+    font-size: 14px;
+    outline: none;
+}
+
+.btn:hover{
+    background-color: blue;
+}
+
+h1{
+   background-color: blue;
+   display: block;
+   color: white;
+   padding: 8px;
+}
